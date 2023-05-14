@@ -9,7 +9,9 @@
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с написания скриптов для пакетной обработки фотографии в Photoshop, где я самостоятельно познакомился с основным синтаксисом языка Python. После чего принял решение углубленного изучения языка. Больше всего меня зацепила веб разработка! С февраля 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим веду расзработку пет-проектов, позволяющих совершенстовать свои навыки!
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Alexei_Plotnikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alexei_Plotnikov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:plotnikov1402@gmail.com)
+- :mailbox: Как связаться со мной: 
+
+[![Telegram Badge](https://img.shields.io/badge/-Alexei_Plotnikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alexei_Plotnikov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:plotnikov1402@gmail.com)
 
 ---
 
